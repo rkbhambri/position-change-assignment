@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/position-change-assignment/static/css/main.cb51e1bf.chunk.css",
+    "main.js": "/position-change-assignment/static/js/main.4b7322a0.chunk.js",
+    "main.js.map": "/position-change-assignment/static/js/main.4b7322a0.chunk.js.map",
+    "runtime-main.js": "/position-change-assignment/static/js/runtime-main.f407fb38.js",
+    "runtime-main.js.map": "/position-change-assignment/static/js/runtime-main.f407fb38.js.map",
+    "static/js/2.5f465522.chunk.js": "/position-change-assignment/static/js/2.5f465522.chunk.js",
+    "static/js/2.5f465522.chunk.js.map": "/position-change-assignment/static/js/2.5f465522.chunk.js.map",
+    "index.html": "/position-change-assignment/index.html",
+    "precache-manifest.2c6354da89efc392065e62feeaa102e6.js": "/position-change-assignment/precache-manifest.2c6354da89efc392065e62feeaa102e6.js",
+    "service-worker.js": "/position-change-assignment/service-worker.js",
+    "static/css/main.cb51e1bf.chunk.css.map": "/position-change-assignment/static/css/main.cb51e1bf.chunk.css.map",
+    "static/js/2.5f465522.chunk.js.LICENSE.txt": "/position-change-assignment/static/js/2.5f465522.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f407fb38.js",
+    "static/js/2.5f465522.chunk.js",
+    "static/css/main.cb51e1bf.chunk.css",
+    "static/js/main.4b7322a0.chunk.js"
+  ]
+}
