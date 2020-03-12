@@ -1,0 +1,25 @@
+
+.controls{
+    width: 48%;
+    box-shadow: 0 0 6px #ccc;
+	margin: 20px;
+	padding: 0px 20px 50px;
+}
+
+.controls label {
+	font-weight: 600;
+}
+
+.controls input[type=number] {
+	width: 100%;
+	padding: 12px 10px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+.controls h2 {
+    color: #b4433c;
+}

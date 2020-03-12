@@ -1,0 +1,27 @@
+
+.preview {
+    width: 48%;
+    margin: 20px;
+    box-shadow: 0 0 6px #ccc;
+}
+
+.preview .preview-content {
+    height: 90%;
+    padding: 0px 20px;
+}
+
+.preview .preview-content .box-wrapper {
+    height: 85%;
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.preview .preview-content .dot {
+    text-align: center;
+    margin: auto;
+    font-weight: 900;
+}
+
+.preview .preview-content h2 {
+    color: #b4433c;
+}
